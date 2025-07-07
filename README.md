@@ -5,8 +5,6 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-1.12+-red.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
-![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg)
-
 **A lightweight spatiotemporal CNN model for real-time hand gesture recognition**
 
 [📄 Paper](https://link.springer.com/article/10.1007/s00521-022-08090-8) • [🎥 Demo Video](https://www.youtube.com/watch?v=mNivI2rsuzU) 
