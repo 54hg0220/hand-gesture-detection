@@ -9,7 +9,7 @@
 
 **A lightweight spatiotemporal CNN model for real-time hand gesture recognition**
 
-[📄 Paper](https://link.springer.com/article/10.1007/s00521-022-08090-8) • [🎥 Demo Video](https://www.youtube.com/watch?v=mNivI2rsuzU) • [📚 Documentation](./docs/) • [🚀 Quick Start](#quick-start)
+[📄 Paper](https://link.springer.com/article/10.1007/s00521-022-08090-8) • [🎥 Demo Video](https://www.youtube.com/watch?v=mNivI2rsuzU) 
 
 </div>
 
