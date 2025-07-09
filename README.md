@@ -1,4 +1,4 @@
-# 🖐️ RGRNet: Rapid Gesture Recognition Network
+# RGRNet: Rapid Gesture Recognition Network
 
 <div align="center">
 
